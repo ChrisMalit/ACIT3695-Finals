@@ -1,0 +1,3 @@
+// Posts Data
+module.exports= 
+[]
